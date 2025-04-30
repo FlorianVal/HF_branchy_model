@@ -1,0 +1,12 @@
+{
+  "branch_locations": null,
+  "branch_number": 3,
+  "confidence_metric": "breaking_ties",
+  "copy_lm_head": false,
+  "head_thresholds": null,
+  "head_window_size": 512,
+  "model_str": "microsoft/phi-2",
+  "model_type": "branchy",
+  "penalty_weight": 0,
+  "transformers_version": "4.36.0"
+}
